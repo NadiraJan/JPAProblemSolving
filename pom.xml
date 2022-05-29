@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>org.example</groupId>
+    <artifactId>JPAProblemSolving</artifactId>
+    <packaging>pom</packaging>
+    <version>1.0-SNAPSHOT</version>
+    <modules>
+        <module>Problem1</module>
+        <module>Problem2</module>
+        <module>Problem3</module>
+        <module>Problem4</module>
+        <module>Problem5</module>
+        <module>Problem7</module>
+        <module>Problem8</module>
+        <module>Problem9</module>
+        <module>Problem10</module>
+        <module>Problem11</module>
+        <module>Problem12</module>
+        <module>Problem13</module>
+
+    </modules>
+
+    <properties>
+        <maven.compiler.source>15</maven.compiler.source>
+        <maven.compiler.target>15</maven.compiler.target>
+    </properties>
+
+
+
+
+
+
+</project>
